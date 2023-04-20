@@ -22,8 +22,8 @@ Registry: ""
 # GSC releases are guaranteed to work with corresponding Gramine releases (and GSC `master`
 # branch is guaranteed to work with current Gramine `master` branch).
 Gramine:
-    Repository: "https://github.com/gramineproject/gramine.git"
-    Branch:     "master"
+    Repository: "https://github.com/svenkata9/gramine.git"
+    Branch:     "svenkat9/ippcp"
 
 # Specify the Intel SGX driver installed on your machine (more specifically, on the machine where
 # the graminized Docker container will run); there are several variants of the SGX driver:
